@@ -1,4 +1,4 @@
-baseurl = "clarencemills.com"
+baseurl = "http://clarencemills.com/"
 languageCode = "en-us"
 title = "Clarence Mills"
 publishdir = "public"
@@ -46,23 +46,23 @@ theme = "hugo-creative-theme"
 
 	# About section
 	[params.about]
-		headline    = "Teacher - Consultant - Entrepeneur"
+		headline    = "Consultant - Entrepeneur - Teacher"
 		description = "I am a provider, consumer, teacher and evangelist of open source software and technology based solutions"
 		buttonText  = "Technologist"
 
 
 	# Service section
 	[params.services]
-		headline = "My contribution"
+		headline = " Contribution"
 
         [[params.services.list]]
           icon = "fa-newspaper-o"
-          title = "Open Site Solutions"
+          title = "Open Source recommendations"
           description = "Open Source Alternative Solutions"
 
         [[params.services.list]]
 					icon = "fa-newspaper-o"
-			    title = "Fix Your Ip"
+			    title = "Online Network Tools"
 			    description = "Online Network Tools"
 
 				[[params.services.list]]
@@ -71,7 +71,7 @@ theme = "hugo-creative-theme"
 					description = "Versioned software"
 
 	[params.aside]
-		headline = "Service Rendered"
+		headline = "Cloud Service"
 
 					[params.aside.button]
 						text = "My Venture"
@@ -80,6 +80,6 @@ theme = "hugo-creative-theme"
 	# Contact section
 	[params.contact]
 		headline = "Contact Details"
-		description = "You have an a IT question or problem"
+		description = "IT question or problem give me a call."
 		phone = "647-749-5084"
 		email = "contact@clarencemills.com"
