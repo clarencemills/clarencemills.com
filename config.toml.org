@@ -1,0 +1,23 @@
+baseurl = "clarencemills"
+languageCode = "en-us"
+contentdir = "content"
+languageCode = "en-us"
+title = "Clarence Mills"
+publishdir = "public"
+theme = hugo-creative-theme""
+canonifyurls = true
+
+[params]
+
+[params.navigation]
+	brans = "Hugo Creative Theme"
+
+	[params.navigation.links]
+		about		="About"
+		consulting	="Consult"
+		Contact		="Contact"
+
+	[params.about]
+		headline	="Me"
+		description	="Highly motivated consultant, entrepeneur who's passionate about open source software and creating unique solutions	
+		buttontext	="Start the journey"
