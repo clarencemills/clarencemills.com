@@ -28,7 +28,7 @@ theme = "hugo-creative-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Clarence Mills"
+		brand = "Technologist"
 
 		[params.navigation.links]
 			about     	= "About"
@@ -81,5 +81,5 @@ theme = "hugo-creative-theme"
 	[params.contact]
 		headline = "Contact Details"
 		description = "IT question or problem give me a call."
-		phone = "647-749-5084"
-		email = "contact@clarencemills.com"
+		phone = "647-794-5084"
+		email = "cmills@clarencemills.com"
