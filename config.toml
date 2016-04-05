@@ -46,8 +46,8 @@ theme = "hugo-creative-theme"
 
 	# About section
 	[params.about]
-		headline    = "Consultant - Entrepeneur - Teacher"
-		description = "I am a provider, consumer, teacher and evangelist of open source software and technology based solutions"
+		headline    = "Consultant - Entrepeneur - Advisor"
+		description = "I am a provider, consumer, advisor and evangelist of open source software and technology based solutions"
 		buttonText  = "Technologist"
 
 
