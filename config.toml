@@ -58,17 +58,17 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
           icon = "fa-newspaper-o"
           title = "Open Source recommendations"
-          description = "Open Source Alternative Solutions"
+          description = "www.opensitesolutions.com"
 
         [[params.services.list]]
-					icon = "fa-newspaper-o"
+			    icon = "fa-newspaper-o"
 			    title = "Online Network Tools"
-			    description = "Online Network Tools"
+			    description = "www.fixyourip.com"
 
 				[[params.services.list]]
 					icon = "fa-newspaper-o"
 					title = "Code"
-					description = "Versioned software"
+					description = "GitHUB repository"
 
 	[params.aside]
 		headline = "Cloud Service"
