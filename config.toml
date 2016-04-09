@@ -19,9 +19,9 @@ theme = "hugo-creative-theme"
 	# For more informtion take a look at the README.
 
 	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
+    	# information about you and your website.
 	name = "Clarence Mills"
-	description = "IT Technologist"
+	description = "Technologist"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -32,8 +32,8 @@ theme = "hugo-creative-theme"
 
 		[params.navigation.links]
 			about     	= "About"
-			services		= "Contribution"
-			portfolio		= "Business"
+			services	= "Contribution"
+			portfolio	= "Resume"
 			contact   	= "Contact"
 
 
@@ -56,30 +56,25 @@ theme = "hugo-creative-theme"
 		headline = " Contribution"
 
         [[params.services.list]]
-          icon = "fa-newspaper-o"
-          title = "Open Source recommendations"
-          description = "www.opensitesolutions.com"
+	  icon = "fa-newspaper-o"
+	  title = "Online Network Tools"
+	  description = "www.fixyourip.com"
 
-        [[params.services.list]]
-			    icon = "fa-newspaper-o"
-			    title = "Online Network Tools"
-			    description = "www.fixyourip.com"
-
-				[[params.services.list]]
-					icon = "fa-newspaper-o"
-					title = "Code"
-					description = "GitHUB repository"
+	[[params.services.list]]
+	 icon = "fa-newspaper-o"
+	 title = "Code"
+	 description = "GitHUB repository"
 
 	[params.aside]
-		headline = "Cloud Service"
+	 headline = "Career Details"
 
-					[params.aside.button]
-						text = "My Venture"
-						link = "//www.toolsforthecloud.com"
+	[params.aside.button]
+     	 text = "My Resume"
+	 link = "//"
 
 	# Contact section
 	[params.contact]
 		headline = "Contact Details"
-		description = "IT question or problem give me a call."
-		phone = "647-794-5084"
+		description = "Questions, I have answers."
+		phone = "647-794-5083"
 		email = "cmills@clarencemills.com"
