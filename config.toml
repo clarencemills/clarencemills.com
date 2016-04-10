@@ -1,6 +1,6 @@
 baseurl = "http://clarencemills.com/"
 languageCode = "en-us"
-title = "Clarence Mills"
+title = "Clarence Mills technologist"
 publishdir = "public"
 theme = "hugo-creative-theme"
 
