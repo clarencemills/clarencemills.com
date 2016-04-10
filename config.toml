@@ -42,7 +42,7 @@ theme = "hugo-creative-theme"
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Clarence Mills"
 		subtitle   = "Always render more and better service than is expected of you, no matter what your task may be - Og Mandino"
-		buttonText = "Who am I"
+		buttonText = "A little about myself"
 
 	# About section
 	[params.about]
