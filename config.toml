@@ -53,7 +53,7 @@ theme = "hugo-creative-theme"
 
 	# Service section
 	[params.services]
-		headline = " Contribution"
+		headline = "Online Presence"
 
         [[params.services.list]]
 	  icon = "fa-newspaper-o"
